@@ -2,7 +2,7 @@
 
 Alvin M S
 
-🚀 Founder of NEXAURON | Full-Stack Developer | Blockchain Analyst | AI & Cybersecurity Enthusiast
+🚀 NEXAURON | Full-Stack Developer | Blockchain Analyst | AI & Cybersecurity Enthusiast
 
 Building scalable software, blockchain solutions, AI-powered applications, and innovative digital products.
 
@@ -26,7 +26,7 @@ Building scalable software, blockchain solutions, AI-powered applications, and i
 
 👨‍💻 About Me
 
-* 🚀 Founder & CEO of NEXAURON
+* 🚀 NEXAURON
 * 💻 Full-Stack Developer
 * ⛓️ Blockchain Analyst & Web3 Researcher
 * 🤖 AI Enthusiast & Automation Builder

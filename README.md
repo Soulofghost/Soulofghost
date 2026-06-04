@@ -1,26 +1,8 @@
-<div align="center">
-
 Alvin M S
 
-🚀 Founder of NEXAURON | Full-Stack Developer | Blockchain Analyst
+🚀 Founder of NEXAURON | Full-Stack Developer | Blockchain Analyst | AI & Cybersecurity Enthusiast
 
-Building scalable software, blockchain solutions, and innovative digital products.
-
-<p>
-  <a href="https://github.com/Soulofghost">
-    <img src="https://img.shields.io/badge/GitHub-Soulofghost-black?style=for-the-badge&logo=github">
-  </a>
-  <a href="https://www.linkedin.com/in/alvin-ms-b812a836b">
-    <img src="https://img.shields.io/badge/LinkedIn-Alvin%20M%20S-blue?style=for-the-badge&logo=linkedin">
-  </a>
-  <a href="https://www.instagram.com/alvxnmz._">
-    <img src="https://img.shields.io/badge/Instagram-@alvxnmz._-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-  </a>
-  <a href="mailto:Alvinms394@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail">
-  </a>
-</p>
-</div>
+Building scalable software, blockchain solutions, AI-powered applications, and innovative digital products.
 
 ⸻
 
@@ -29,11 +11,11 @@ Building scalable software, blockchain solutions, and innovative digital product
 * 🚀 Founder & CEO of NEXAURON
 * 💻 Full-Stack Developer
 * ⛓️ Blockchain Analyst & Web3 Researcher
+* 🤖 AI Enthusiast & Automation Builder
 * ☕ Java Developer
 * 🗄️ SQL Database Designer
 * 🌐 Startup Builder & Digital Innovator
-* 🤖 Exploring AI, Automation & Emerging Technologies
-* 📈 Passionate about creating impactful products
+* 📈 Passionate about creating impactful technology products
 
 ⸻
 
@@ -41,47 +23,71 @@ Building scalable software, blockchain solutions, and innovative digital product
 
 🚀 NEXAURON
 
-Digital marketing, startup solutions, automation, and technology consulting.
+Digital marketing, startup solutions, automation, technology consulting, and scalable business growth.
 
 🏛️ CIVIX
 
-Civic technology platform focused on digital governance and public-service innovation.
+Civic technology platform focused on digital governance, citizen engagement, and public-service innovation.
 
 📸 NEXAAPIX
 
-Creative media, branding, content creation, and digital asset solutions.
+Creative media ecosystem for branding, content creation, digital assets, and visual storytelling.
 
 ⛓️ Blockchain Analytics
 
-Researching blockchain ecosystems, Web3 technologies, cryptocurrencies, and decentralized applications.
+Researching blockchain ecosystems, cryptocurrencies, Web3 technologies, DeFi, and decentralized applications.
+
+⸻
+
+🧠 Skills & Expertise
+
+💻 Software Development
+
+Full-Stack Development • Java • JavaScript • SQL • REST APIs • Web Development
+
+⛓️ Blockchain & Web3
+
+Blockchain Analysis • Web3 • Smart Contracts • Crypto Research • DeFi Analysis
+
+🤖 Artificial Intelligence
+
+AI Models • AI Automation • Prompt Engineering • Machine Learning
+
+📈 Trading
+
+Technical Analysis • Market Research • Risk Management • Crypto Trading
+
+🔐 Cybersecurity
+
+Ethical Hacking • Penetration Testing • Network Security • Digital Forensics • Incident Response • Vulnerability Assessment • Malware Analysis • Web Security • Cloud Security • SOC Analysis • Linux Administration
 
 ⸻
 
 🛠 Tech Stack
 
-Languages
-
-Java • JavaScript • SQL • HTML5 • CSS3
-
-Backend
-
-Java • JDBC • REST APIs • MySQL
-
-Frontend
-
-HTML • CSS • JavaScript • Responsive Design
-
-Tools
-
-Git • GitHub • WordPress • VS Code • IntelliJ IDEA
-
-Blockchain
-
-Web3 • Smart Contracts • Blockchain Research • Crypto Analytics
-
 ⸻
 
-📊 GitHub Statistics
+🚀 Featured Projects
+
+🚀 NEXAURON
+
+Technology, marketing, automation, and startup growth platform.
+
+🏛️ CIVIX
+
+Digital governance and civic-tech innovation ecosystem.
+
+📸 NEXAAPIX
+
+Creative media and digital branding solutions.
+
+⛓️ Blockchain Analytics
+
+Blockchain intelligence, research, and Web3 ecosystem analysis.
+
+📚 Library Management System
+
+Java + SQL-based management solution for educational institutions.
 
 ⸻
 
@@ -91,6 +97,8 @@ Web3 • Smart Contracts • Blockchain Research • Crypto Analytics
 * Advanced Java Development
 * Full-Stack Engineering
 * Blockchain Intelligence
+* Artificial Intelligence
+* Cybersecurity Research
 * Startup Growth & Innovation
 * Open Source Contributions
 
@@ -98,31 +106,15 @@ Web3 • Smart Contracts • Blockchain Research • Crypto Analytics
 
 🌐 Connect With Me
 
-* GitHub: https://github.com/Soulofghost
-* LinkedIn: https://www.linkedin.com/in/alvin-ms-b812a836b
-* Instagram: https://www.instagram.com/alvxnmz._
+* GitHub: github.com/Soulofghost
+* LinkedIn: linkedin.com/in/alvin-ms-b812a836b
+* Instagram: @alvxnmz._
 * Email: Alvinms394@gmail.com
 
 ⸻
 
-<div align="center">
+📌 Motto
 
-“Building the Future Through Code, Innovation, and Blockchain.”
+“Building the Future Through Code, AI, Innovation, and Blockchain.”
 
-⭐ Follow my journey and explore my projects.
-
-<
-<!--
-**Soulofghost/Soulofghost** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⭐ Follow my journey and explore my p

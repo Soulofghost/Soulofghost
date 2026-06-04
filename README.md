@@ -1,8 +1,26 @@
+<div align="center">
+
 Alvin M S
 
 🚀 Founder of NEXAURON | Full-Stack Developer | Blockchain Analyst | AI & Cybersecurity Enthusiast
 
 Building scalable software, blockchain solutions, AI-powered applications, and innovative digital products.
+
+<p>
+  <a href="https://github.com/Soulofghost">
+    <img src="https://img.shields.io/badge/GitHub-Soulofghost-black?style=for-the-badge&logo=github">
+  </a>
+  <a href="https://www.linkedin.com/in/alvin-ms-b812a836b">
+    <img src="https://img.shields.io/badge/LinkedIn-Alvin%20M%20S-blue?style=for-the-badge&logo=linkedin">
+  </a>
+  <a href="https://www.instagram.com/alvxnmz._">
+    <img src="https://img.shields.io/badge/Instagram-@alvxnmz._-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+  </a>
+  <a href="mailto:Alvinms394@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail">
+  </a>
+</p>
+</div>
 
 ⸻
 
@@ -43,27 +61,93 @@ Researching blockchain ecosystems, cryptocurrencies, Web3 technologies, DeFi, an
 
 💻 Software Development
 
-Full-Stack Development • Java • JavaScript • SQL • REST APIs • Web Development
+* Full-Stack Development
+* Java Development
+* SQL & Database Design
+* REST API Development
+* Web Application Development
+* Responsive UI Design
 
 ⛓️ Blockchain & Web3
 
-Blockchain Analysis • Web3 • Smart Contracts • Crypto Research • DeFi Analysis
+* Blockchain Analysis
+* Web3 Technologies
+* Smart Contract Fundamentals
+* Cryptocurrency Research
+* DeFi Ecosystem Analysis
+* Crypto Market Intelligence
 
 🤖 Artificial Intelligence
 
-AI Models • AI Automation • Prompt Engineering • Machine Learning
+* AI Model Integration
+* AI Automation
+* Prompt Engineering
+* Machine Learning Fundamentals
+* AI-Powered Applications
 
-📈 Trading
+📈 Trading & Financial Markets
 
-Technical Analysis • Market Research • Risk Management • Crypto Trading
+* Technical Analysis
+* Risk Management
+* Market Research
+* Cryptocurrency Trading
+* Financial Data Analysis
 
 🔐 Cybersecurity
 
-Ethical Hacking • Penetration Testing • Network Security • Digital Forensics • Incident Response • Vulnerability Assessment • Malware Analysis • Web Security • Cloud Security • SOC Analysis • Linux Administration
+* Ethical Hacking
+* Penetration Testing
+* Network Security
+* Digital Forensics
+* Incident Response
+* Vulnerability Assessment
+* Malware Analysis
+* Web Application Security
+* Cloud Security
+* Security Operations Center (SOC) Analysis
+* Linux Administration
 
 ⸻
 
 🛠 Tech Stack
+
+Languages
+
+* Java
+* JavaScript
+* SQL
+* HTML5
+* CSS3
+
+Backend
+
+* Java
+* JDBC
+* REST APIs
+* MySQL
+
+Frontend
+
+* HTML
+* CSS
+* JavaScript
+* Responsive Design
+
+Tools
+
+* Git
+* GitHub
+* WordPress
+* VS Code
+* IntelliJ IDEA
+* Linux
+
+Blockchain
+
+* Web3
+* Smart Contracts
+* Blockchain Research
+* Crypto Analytics
 
 ⸻
 
@@ -104,17 +188,21 @@ Java + SQL-based management solution for educational institutions.
 
 ⸻
 
+📊 GitHub Statistics
+
+⸻
+
 🌐 Connect With Me
 
-* GitHub: github.com/Soulofghost
-* LinkedIn: linkedin.com/in/alvin-ms-b812a836b
-* Instagram: @alvxnmz._
+* GitHub: https://github.com/Soulofghost
+* LinkedIn: https://www.linkedin.com/in/alvin-ms-b812a836b
+* Instagram: https://www.instagram.com/alvxnmz._
 * Email: Alvinms394@gmail.com
 
 ⸻
 
-📌 Motto
+<div align="center">
 
 “Building the Future Through Code, AI, Innovation, and Blockchain.”
 
-⭐ Follow my journey and explore my p
+⭐ Follow my journey and explore my projects.

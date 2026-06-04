@@ -1,7 +1,7 @@
-## Hi there 👋
+
 <div align="center">
 
-Alvin M S
+#Alvin M S
 
 🚀 Founder of NEXAURON | Full-Stack Developer | Blockchain Analyst
 

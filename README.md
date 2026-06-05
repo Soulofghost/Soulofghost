@@ -1,208 +1,97 @@
-<div align="center">
+# 🚀 Alvin M S
 
-Alvin M S
+<img src=“https://pin.it/2hkn1Fjs5"/>
 
-🚀 NEXAURON | Full-Stack Developer | Blockchain Analyst | AI & Cybersecurity Enthusiast
+<h3 align="center">
+Founder of NEXAURON • Full-Stack Developer • Blockchain Analyst
+</h3>
 
-Building scalable software, blockchain solutions, AI-powered applications, and innovative digital products.
+---
 
-<p>
-  <a href="https://github.com/Soulofghost">
-    <img src="https://img.shields.io/badge/GitHub-Soulofghost-black?style=for-the-badge&logo=github">
-  </a>
-  <a href="https://www.linkedin.com/in/alvin-ms-b812a836b">
-    <img src="https://img.shields.io/badge/LinkedIn-Alvin%20M%20S-blue?style=for-the-badge&logo=linkedin">
-  </a>
-  <a href="https://www.instagram.com/alvxnmz._">
-    <img src="https://img.shields.io/badge/Instagram-@alvxnmz._-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-  </a>
-  <a href="mailto:Alvinms394@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail">
-  </a>
-</p>
-</div>
+## 👨‍💻 About Me
 
-⸻
+🎓 Computer Science Student
 
-👨‍💻 About Me
+🚀 Founder & CEO of NEXAURON
 
-* 🚀 NEXAURON
-* 💻 Full-Stack Developer
-* ⛓️ Blockchain Analyst & Web3 Researcher
-* 🤖 AI Enthusiast & Automation Builder
-* ☕ Java Developer
-* 🗄️ SQL Database Designer
-* 🌐 Startup Builder & Digital Innovator
-* 📈 Passionate about creating impactful technology products
+💻 Full-Stack Developer
 
-⸻
+⛓️ Blockchain Analyst & Web3 Researcher
 
-🏢 Ventures & Initiatives
+🤖 AI Enthusiast & Automation Builder
+
+🔐 Cybersecurity Learner
+
+📈 Trader & Market Analyst
+
+☕ Java Developer
+
+---
+
+## 🏢 Ventures
 
 🚀 NEXAURON
 
-Digital marketing, startup solutions, automation, technology consulting, and scalable business growth.
-
 🏛️ CIVIX
-
-Civic technology platform focused on digital governance, citizen engagement, and public-service innovation.
 
 📸 NEXAAPIX
 
-Creative media ecosystem for branding, content creation, digital assets, and visual storytelling.
-
 ⛓️ Blockchain Analytics
 
-Researching blockchain ecosystems, cryptocurrencies, Web3 technologies, DeFi, and decentralized applications.
+---
 
-⸻
+## 🛠 Languages & Tools
 
-🧠 Skills & Expertise
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux)
 
-💻 Software Development
+---
 
-* Full-Stack Development
-* Java Development
-* SQL & Database Design
-* REST API Development
-* Web Application Development
-* Responsive UI Design
+## 🔐 Cybersecurity
 
-⛓️ Blockchain & Web3
+![Ethical Hacking](https://img.shields.io/badge/Ethical_Hacking-black?style=for-the-badge)
+![Penetration Testing](https://img.shields.io/badge/Penetration_Testing-red?style=for-the-badge)
+![Network Security](https://img.shields.io/badge/Network_Security-blue?style=for-the-badge)
+![SOC](https://img.shields.io/badge/SOC_Analysis-orange?style=for-the-badge)
 
-* Blockchain Analysis
-* Web3 Technologies
-* Smart Contract Fundamentals
-* Cryptocurrency Research
-* DeFi Ecosystem Analysis
-* Crypto Market Intelligence
+---
 
-🤖 Artificial Intelligence
+## ⛓️ Blockchain & AI
 
-* AI Model Integration
-* AI Automation
-* Prompt Engineering
-* Machine Learning Fundamentals
-* AI-Powered Applications
+![Blockchain](https://img.shields.io/badge/Blockchain-121D33?style=for-the-badge)
+![Web3](https://img.shields.io/badge/Web3-F16822?style=for-the-badge)
+![AI](https://img.shields.io/badge/Artificial_Intelligence-purple?style=for-the-badge)
 
-📈 Trading & Financial Markets
+---
 
-* Technical Analysis
-* Risk Management
-* Market Research
-* Cryptocurrency Trading
-* Financial Data Analysis
+## 📊 GitHub Stats
 
-🔐 Cybersecurity
+![Stats](https://github-readme-stats.vercel.app/api?username=Soulofghost&show_icons=true&theme=tokyonight)
 
-* Ethical Hacking
-* Penetration Testing
-* Network Security
-* Digital Forensics
-* Incident Response
-* Vulnerability Assessment
-* Malware Analysis
-* Web Application Security
-* Cloud Security
-* Security Operations Center (SOC) Analysis
-* Linux Administration
+![Streak](https://streak-stats.demolab.com?user=Soulofghost&theme=tokyonight)
 
-⸻
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Soulofghost&layout=compact&theme=tokyonight)
 
-🛠 Tech Stack
+---
 
-Languages
+## 🌐 Connect
 
-* Java
-* JavaScript
-* SQL
-* HTML5
-* CSS3
+📧 Alvinms394@gmail.com
 
-Backend
+🔗 LinkedIn:
+https://linkedin.com/in/alvin-ms-b812a836b
 
-* Java
-* JDBC
-* REST APIs
-* MySQL
+📸 Instagram:
+https://instagram.com/alvxnmz._
 
-Frontend
+🐙 GitHub:
+https://github.com/Soulofghost
 
-* HTML
-* CSS
-* JavaScript
-* Responsive Design
+---
 
-Tools
-
-* Git
-* GitHub
-* WordPress
-* VS Code
-* IntelliJ IDEA
-* Linux
-
-Blockchain
-
-* Web3
-* Smart Contracts
-* Blockchain Research
-* Crypto Analytics
-
-⸻
-
-🚀 Featured Projects
-
-🚀 NEXAURON
-
-Technology, marketing, automation, and startup growth platform.
-
-🏛️ CIVIX
-
-Digital governance and civic-tech innovation ecosystem.
-
-📸 NEXAAPIX
-
-Creative media and digital branding solutions.
-
-⛓️ Blockchain Analytics
-
-Blockchain intelligence, research, and Web3 ecosystem analysis.
-
-📚 Library Management System
-
-Java + SQL-based management solution for educational institutions.
-
-⸻
-
-🎯 Current Focus
-
-* Building NEXAURON
-* Advanced Java Development
-* Full-Stack Engineering
-* Blockchain Intelligence
-* Artificial Intelligence
-* Cybersecurity Research
-* Startup Growth & Innovation
-* Open Source Contributions
-
-⸻
-
-📊 GitHub Statistics
-
-⸻
-
-🌐 Connect With Me
-
-* GitHub: https://github.com/Soulofghost
-* LinkedIn: https://www.linkedin.com/in/alvin-ms-b812a836b
-* Instagram: https://www.instagram.com/alvxnmz._
-* Email: Alvinms394@gmail.com
-
-⸻
-
-<div align="center">
-
-“Building the Future Through Code, AI, Innovation, and Blockchain.”
-
-⭐ Follow my journey and explore my projects.
+### ⚡ Building the Future Through Code, AI, Innovation & Blockchain
